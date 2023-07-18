@@ -256,6 +256,14 @@ header{
     .featured-content{
         text-align: center;
        }
+       .featured-img img{
+        width: 90%;  
+        
+     }
+     .featured-img{
+        width: auto;
+        margin-left: 30px;
+     }  
 
 }
 
