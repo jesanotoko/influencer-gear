@@ -239,8 +239,8 @@ header{
     }
     .popular{
         grid-template-columns: repeat(1, 1fr);
-        width: 85%;
-        margin: 20px auto;
+        width: auto;
+        margin: 10px auto;
     }
   
     .featured-info{
