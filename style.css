@@ -242,6 +242,9 @@ header{
         width: auto;
         margin: 10px auto;
     }
+    .item{
+        width: auto;
+    }
   
     .featured-info{
         flex-direction: column;
